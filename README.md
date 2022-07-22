@@ -10,7 +10,7 @@
 
 ## Courses
   - [LEVEL 0 - Compare stock performance with Python](https://github.com/williamcwi/python-for-finance/tree/master/LEVEL%200%20-%20Compare%20stock%20performance%20with%20Python)
-  - LEVEL 1 - Finance Fundamentals
+  - [LEVEL 1 - Finance Fundamentals](https://github.com/williamcwi/python-for-finance/tree/master/LEVEL%201%20-%20Finance%20Fundamentals)
   - LEVEL 2 - Python Fundamentals
   - LEVEL 3 - Stock Data Analysis
   - LEVEL 4 - Algorithmic Trading
