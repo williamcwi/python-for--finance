@@ -4,7 +4,7 @@
 
 ## Instructed by <img src="https://github.com/williamcwi/python-for-finance/blob/main/misc/img/alex_kropf.png" width="20"/> Alexandra Kropova
 **Alexandra Kropova** is a software developer with extensive experience in full-stack web development, app development and game development. She has helped produce courses for Mammoth Interactive since 2016, including the Coding Interview series in Java, JavaScript, C++, C#, Python and Swift.
-## Offered by [<img src="https://github.com/williamcwi/python-for-finance/blob/main/misc/img/mammothinteractive.png" width="200"/> Mammoth Interactive](https://mammothinteractive.com/)
+## Offered by [<img src="https://github.com/williamcwi/python-for-finance/blob/main/misc/img/mammothinteractive.png" width="20"/> Mammoth Interactive](https://mammothinteractive.com/)
 
 ---
 
